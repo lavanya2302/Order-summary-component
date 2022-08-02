@@ -1,2 +1,2 @@
-# Order-summary-component.oi
+# Order-summary-component
 html css
